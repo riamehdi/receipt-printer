@@ -12,7 +12,7 @@ Simple Laravel package to integrate ESC/POS Print Driver for PHP.
 Via Composer
 
 ``` bash
-$ composer require charlieuki/receiptprinter
+$ composer require riamehdi/receipt-printer
 ```
 
 ## Sample App
